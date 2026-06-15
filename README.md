@@ -86,6 +86,6 @@ streamlit run app.py
 
 ## Author
 
-Kubra Siraj
+Kubra Siraj and Zoha kamil
 BS Computer Science Student
 AI & Data Science Enthusiast
